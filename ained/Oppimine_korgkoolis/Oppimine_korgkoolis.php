@@ -1,4 +1,4 @@
-<h4>Oppimine_korgkoolis</h4>
+<h4>Õppimine kõrgkoolis</h4>
 <?php
 require("../../header.php");
 

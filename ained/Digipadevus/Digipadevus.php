@@ -1,4 +1,4 @@
-<h4>Digipadevus</h4>
+<h4>Digipädevus</h4>
 <?php
 require("../../header.php");
 

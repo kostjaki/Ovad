@@ -1,4 +1,4 @@
-<h4>Operatsioonisusteemid</h4>
+<h4>Operatsioonisüsteemid</h4>
 <?php
 require("../../header.php");
 

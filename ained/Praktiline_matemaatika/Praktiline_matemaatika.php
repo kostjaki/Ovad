@@ -1,4 +1,4 @@
-<h4>Praktiline_matemaatika</h4>
+<h4>Praktiline matemaatika</h4>
 <?php
 require("../../header.php");
 

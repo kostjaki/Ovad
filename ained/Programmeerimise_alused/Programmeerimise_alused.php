@@ -1,4 +1,4 @@
-<h4>Programmeerimise_alused</h4>
+<h4>Programmeerimise alused</h4>
 <?php
 require("../../header.php");
 
