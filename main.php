@@ -79,7 +79,7 @@
 
 </div>
 <div id="logo">
-	<h1><a href="#">TLU</a></h1>
+	<h1>TLU</h1>
 	<h2>Õppematerjalid</h2>
 </div>
 
@@ -118,7 +118,7 @@
       <option value="ained/Veebiprogrammeerimine">Veebiprogrammeerimine</option>
       <option value="ained/Praktiline_matemaatika/">Praktiline_matemaatika</option>
     </select>
-    <input type="file" name="uploaded_file"></input><br />
+    <input type="file" name="uploaded_file" ></input><br />
     <input type="submit" value="Upload"></input>
   </form>
       <div class="sticky-image-wrapper">

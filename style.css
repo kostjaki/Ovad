@@ -45,6 +45,7 @@ input.button {
 	border-bottom: 1px solid #3C7BCF;
 	color: #FFFFFF;
 }
+
 .button2, form button, form input[type="button"], form input[type="submit"], #conten form input[type="reset"] {
     display: inline-block;
     cursor: pointer;
@@ -192,7 +193,7 @@ html>body #wrapper { height: auto; }
 #logo h1 {
 	padding: 10px 5px 0 40px;
 	font-size: 48px;
-	color: #FFFFFF;
+	color: #d60202;
 }
 
 #logo h2 {
